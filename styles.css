@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(53, 66, 40);
+    -webkit-text-stroke: 1px black;
+    font-family: "Arial", "Comic Sans", cursive;
+    
+}
+
+
+a {
+    font-family: sans-serif;
+    color: rgb(31, 48, 31);
+}
+
+body {
+    background:rgb(79, 100, 79);
+}

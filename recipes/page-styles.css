@@ -1,0 +1,27 @@
+.Description {
+    color:blue;
+}
+
+.Ingredients {
+    color: red;
+}
+
+.Steps {
+    color: green;
+}
+
+a {
+    color: black;
+}
+
+#PBJ-BOD {
+    background: rgb(148, 136, 214);
+}
+
+#POR-BOD {
+    background: rgb(134, 201, 153);
+}
+
+#BR-BOD {
+    background: rgb(216, 216, 195);
+}
